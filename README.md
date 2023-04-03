@@ -1,5 +1,5 @@
 
-<html lang="en">
+
   <head>
     <title>Zurish Insurance</title>
     <!-- Required meta tags -->
